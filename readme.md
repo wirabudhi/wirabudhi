@@ -10,7 +10,6 @@ Saya **I Putu Wira Budhi Guna Ariyasa**.
 ## Statistik GitHub 📊
 
 ![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=wirabudhi&layout=compact&theme=radical)
-``
 
 
 ## Proyek-Proyek Unggulan 🌟
