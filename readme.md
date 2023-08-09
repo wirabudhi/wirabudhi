@@ -9,9 +9,9 @@ Saya **I Putu Wira Budhi Guna Ariyasa**.
 
 ## Statistik GitHub 📊
 
-[![Statistik GitHub I Putu Wira Budhi Guna Ariyasa](https://github-readme-stats.vercel.app/api?username=wirabudhi)](https://github.com/anuraghazra/github-readme-stats)
+![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=wirabudhi&layout=compact&theme=radical)
+``
 
-> Catatan: Anda perlu mengintegrasikan [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) untuk menampilkan statistik di atas.
 
 ## Proyek-Proyek Unggulan 🌟
 - **[My Story App](https://github.com/wirabudhi/MyStoryApp)**: Proyek submission dicoding android intermediate.
