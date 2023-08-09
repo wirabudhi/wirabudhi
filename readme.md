@@ -3,7 +3,7 @@
 Saya **I Putu Wira Budhi Guna Ariyasa**.
 
 ## Tentang Saya 🚀
-- 🌱 Pekerjaan: **Full Stack Web Developer**.
+- 🌱 Pekerjaan: **Full Stack Developer**.
 - 🏠 Lokasi: Tabanan, Bali, Indonesia.
 - 💼 Teknologi yang saya kuasai: PHP, Kotlin, JavaScript, C++, C#, Java, Laravel, VueJS, Inertia, TailwindCSS, Bootstrap.
 
