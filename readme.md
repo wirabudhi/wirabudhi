@@ -8,9 +8,10 @@ Saya **I Putu Wira Budhi Guna Ariyasa**.
 - 💼 Teknologi yang saya kuasai: PHP, Kotlin, JavaScript, C++, C#, Java, Laravel, VueJS, Inertia, TailwindCSS, Bootstrap.
 
 ## Statistik GitHub 📊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wirabudhi)](https://github.com/anuraghazra/github-readme-stats)
 
+## Bahasa Pemrograman Paling Sering Digunakan 🧑‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirabudhi)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Proyek-Proyek Unggulan 🌟
 - **[My Story App](https://github.com/wirabudhi/MyStoryApp)**: Proyek submission dicoding android intermediate.
