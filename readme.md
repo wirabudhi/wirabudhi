@@ -7,7 +7,7 @@ Saya **I Putu Wira Budhi Guna Ariyasa**.
 - 🏠 Lokasi: Tabanan, Bali, Indonesia.
 - 💼 Teknologi yang saya kuasai: PHP, Kotlin, JavaScript, C++, C#, Java, Laravel, VueJS, Inertia, TailwindCSS, Bootstrap.
 
-## Bahasa Pemrograman Paling Sering Digunakan 🧑‍💻
+## Bahasa Pemrograman🧑‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirabudhi&layout=compact)
 
 ## Proyek-Proyek Unggulan 🌟
