@@ -5,7 +5,7 @@ Saya **I Putu Wira Budhi Guna Ariyasa**.
 ## Tentang Saya 🚀
 - 🌱 Pekerjaan: **Full Stack Developer**.
 - 🏠 Lokasi: Tabanan, Bali, Indonesia.
-- 💼 Teknologi yang saya kuasai: PHP, Kotlin, JavaScript, C++, C#, Java, Laravel, VueJS, Inertia, TailwindCSS, Bootstrap.
+- 💼 Teknologi yang saya kuasai: PHP, Kotlin, JavaScript, C++, C#, Java, Laravel, VueJS, Inertia, TailwindCSS, Bootstrap, Livewire, AlpineJS.
 
 ## Bahasa Pemrograman🧑‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirabudhi&layout=compact)
